@@ -8,7 +8,7 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "strict": true,
-    "suppressImplicitAnyIndexErrors": true,
+    "suppressImplicitAnyIndexErrors": false,
     "target": "esnext"
   }
 }
